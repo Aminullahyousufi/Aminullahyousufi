@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aminullah Yousufi
-- 👀 I’m interested in python programming language specifically for the data science and data visvalization.
+- 👀 I’m interested in python programming language and automation.
 - 🌱 I’m currently learning my master of innovative information system at University of Toulouse Capitole 1.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
